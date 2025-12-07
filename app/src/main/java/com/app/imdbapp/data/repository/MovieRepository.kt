@@ -103,7 +103,6 @@ class MovieRepository(
         try {
             if (isNetworkAvailable()) {
                 // Search from API - TMDB doesn't have a simple search in trending, so we'll search in cache first
-                // For now, we'll use cached movies for search to keep it simple
                 val movies = withContext(Dispatchers.IO) {
                     if (query.isBlank()) {
                         movieDao.getAllMovies()
