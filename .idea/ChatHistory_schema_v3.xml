@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistoryState">
+    <option name="chatSessions" value="{&quot;3efaf9b4-7892-42bf-a9b0-ee948a9e6082&quot;:{&quot;id&quot;:&quot;3efaf9b4-7892-42bf-a9b0-ee948a9e6082&quot;,&quot;name&quot;:&quot;Reading a Notion Doc&quot;,&quot;timestamp&quot;:1764998806946,&quot;messages&quot;:[{&quot;role&quot;:&quot;user&quot;,&quot;content&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;text&quot;:&quot;\u003cuser_query\u003e\nCan you read a notion doc?\n\u003c/user_query\u003e&quot;}]},{&quot;role&quot;:&quot;assistant&quot;,&quot;content&quot;:[]}]},&quot;b14f8cc7-4d7e-488b-ae0f-62efebe0b733&quot;:{&quot;id&quot;:&quot;b14f8cc7-4d7e-488b-ae0f-62efebe0b733&quot;,&quot;name&quot;:&quot;Reading a Notion Document from a Shared Link&quot;,&quot;timestamp&quot;:1765096710381,&quot;messages&quot;:[{&quot;role&quot;:&quot;user&quot;,&quot;content&quot;:[{&quot;type&quot;:&quot;text&quot;,&quot;text&quot;:&quot;\u003cuser_query\u003e\nCan you read a notion doc if I give link?\n\u003c/user_query\u003e&quot;}]},{&quot;role&quot;:&quot;assistant&quot;,&quot;content&quot;:[]}]}}" />
+  </component>
+</project>
